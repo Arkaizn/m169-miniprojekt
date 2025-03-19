@@ -24,7 +24,7 @@ Klone das Repository:
 Führe das Installationsskript im Verzeichnis aus aus:
 
 ``` sh
-    ./nginx-miniweb/install.sh
+    ./install.sh
 ```
 
 Dies erstellt das Docker-Image und startet den Container.
@@ -35,8 +35,9 @@ Besuche die Webseite unter: http://localhost:8080
 
 Falls du den Container und das Image löschen möchtest, kannst du das delete.sh-Skript ausführen:
 
-./delete.sh
-
+```sh
+    ./nginx-miniweb/delete.sh
+```
 
 ## Projektstruktur - Dokumentation
 
