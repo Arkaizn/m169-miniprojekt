@@ -1,7 +1,3 @@
-Here’s an improved version of the README file, with the install script approach:
-
----
-
 # nginx-miniweb
 
 nginx-miniweb ist eine einfache NGINX-Webserver-Implementierung in einem Docker-Container. Der Server stellt eine statische Website auf Port 8080 bereit und speichert Web- und Logdateien in lokalen Verzeichnissen.
